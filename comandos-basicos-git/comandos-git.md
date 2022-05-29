@@ -104,5 +104,6 @@ Para executar uma verificação de integridade do sistema de arquivos git, use o
  - **git rebase**
 O comando git rebase é usado para reaplicação de compromissos em outro ramo. Por exemplo:
 ```git rebase master```
+
 **Conclusão**
 Alguns dos comandos git básicos usados com frequência. Certifique-se de verificar o nosso tutorial GIT para uma instrução fácil de seguir sobre como configurar e usar GIT.
